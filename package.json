@@ -1,6 +1,6 @@
 {
   "name": "soundcloud-redux",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "SoundCloud API client with React, Redux, and Redux Saga",
   "homepage": "https://soundcloud-redux.herokuapp.com",
   "repository": {
